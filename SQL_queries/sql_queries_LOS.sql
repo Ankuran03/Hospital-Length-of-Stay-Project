@@ -1,4 +1,4 @@
-use ironhack_final_project;
+
 
 -- How many patients we have in our dataset?
 SELECT 
